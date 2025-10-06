@@ -1,6 +1,6 @@
 # C Learning
 
-Welcome to my C programming learning repository!
+Welcome to my C programming journey!
 
 ## Overview
 
