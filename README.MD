@@ -5,6 +5,7 @@ Welcome to my C programming journey!
 ## Overview
 
 This repository contains:
+==========================
 
 - **Code examples** from the book, examples, and exercises.
 - **Notes and documentation** to help me understand C concepts in more depth.
