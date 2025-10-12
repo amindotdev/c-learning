@@ -8,13 +8,13 @@ int main(){
   
   printf("Enter a characters: ");
  while((ch = getchar()) != EOF){
-    if(ch == '\t'){
-      putchar('\\');
-    }     
-    if(ch == '\b')
-        putchar('\b');
-    if(ch == '\\')
-       putchar('\\');
-  putchar(ch);
+    if(ch == '\t')
+      printf("\\t");
+    else if(ch == '\b')
+        printf("\\b");
+    else if(ch == '\\')
+       printf("\\\\");
+    else
+       putchar(ch);
   }
 }
